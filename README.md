@@ -4,7 +4,6 @@
 - 💭 I'm looking to get my first job as a Data Analyst
 - 🌱 I’m currently learning how to use Data Tools and languages like : Python, PowerBi and Tableau Software
 - 📄 If you want to know more about my experiences, here is my [resume](https://github.com/MarineM-git/MarIneM-git/blob/main/Marine%20MINE_CV-2024.pdf)
-- 📫 How to reach me: mm.marine.mine@gmail.com
 
 
 
