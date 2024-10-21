@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Marine
+
+- 🔭 I’m currently retraining for a new career
+- 💭 I'm looking to get my first job as a Data Analyst
+- 🌱 I’m currently learning how to use Data Tools and languages like : Python, PowerBi and Tableau Software
+- 📄 If you want to know more about my experiences, here is my [resume](https://github.com/MarineM-git/MarIneM-git/blob/main/Marine%20MINE_CV-2024.pdf)
+- 📫 How to reach me: mm.marine.mine@gmail.com
+
+
+
 
 <!--
 **MarineM-git/MarIneM-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
