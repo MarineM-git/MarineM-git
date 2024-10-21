@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Marine
 
-- 🔭 I’m currently retraining for a new career
-- 💭 I'm looking to get my first job as a Data Analyst
-- 🌱 I’m currently learning how to use Data Tools and languages like : Python, PowerBi and Tableau Software
-- 📄 If you want to know more about my experiences, here is my [resume](https://github.com/MarineM-git/MarIneM-git/blob/main/Marine%20MINE_CV-2024.pdf)
+- 🔭 Je suis en reconversion professionnelle. Issue du monde juridique et de la qualité, je me suis reconvertie dans l'univers de la data
+- 💭 Je suis à la recherche de ma première véritable expérience de Data Analyst
+- 🌱 Je suis actuellement en train d'apprendre à utiliser les outils liés à la data tels que Python, PowerBi et Tableau Software
+- 📄 Si vous voulez en savoir plus sur mes expériences professionnelles, voici mon [cv](https://github.com/MarineM-git/MarIneM-git/blob/main/Marine%20MINE_CV-2024.pdf) ainsi que mon profil sur [Tableau Public](https://public.tableau.com/views/Profil_17295145869220/CV_page1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
