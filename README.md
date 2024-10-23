@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Marine
 
 - 🔭 Je suis en reconversion professionnelle. Issue du monde juridique et de la qualité, je me suis reconvertie dans l'univers de la data
-- 🌱 Je suis actuellement en train d'apprendre à utiliser les outils liés à la data tels que Python, PowerBi et Tableau Software
+- 🌱 Je suis actuellement en train d'apprendre à utiliser les outils liés à la Business Intelligence tels que le langage Python et les logiciels PowerBi et Tableau Software
 - 📄 Si vous voulez en savoir plus sur mes expériences professionnelles, voici mon [cv](https://github.com/MarineM-git/MarIneM-git/blob/main/Marine%20MINE_CV-2024.pdf) ainsi que mon profil sur [Tableau Public](https://public.tableau.com/views/Profil_17295145869220/CV_page1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
