@@ -5,6 +5,10 @@
 
 🔭 Issue du monde juridique puis du management de la Qualité, je me suis reconvertie dans l'univers de la data
 
+<p align="center">
+  <img src="https://github.com/MarineM-git/MarineM-git/blob/main/img/image_profil.webp" alt="Profil" width="600"/>
+</p>
+
 ## 📊 Ma formation Business Intelligence Analyst avec OpenClassrooms
 
 | 🗃️ Projets           | 🖥️ Technologies |
