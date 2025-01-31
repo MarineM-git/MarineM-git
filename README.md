@@ -13,7 +13,6 @@
 
 | 🗃️ Projets           | 🖥️ Technologies |
 |-------------------|------------|
-| [**Projet 1**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet1) : *Démarrez votre formation de Business Intelligence Analyst* : Prise de conscience des compétences propres au métier de Business Intelligence Analyst | Internet |
 | [**Projet 2**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet2) : *Visualisez des données avec Excel* : Réalisation de graphiques à l'aide d'une base de données sur Excel afin de faire une analyse de clientèle d'une banque | Excel |
 | [**Projet 3**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet3) : *Requêtez une base de données avec SQL* : requêtes SQL simples afin d'analyser le portefeuille immobilier d'une assurance habitation | PostgreSQL, SQL Power Architect |
 | [**Projet 4**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet4) : *Collectez des données en respectant les normes RGPD* : modification d'une base de données en CSV via PowerQuery et requête SQL simple afin d'extraire des données anonymisées pour respecter le RGPD | PowerQuery (Excel), PostgreSQL |
@@ -23,6 +22,5 @@
 | [**Projet 8**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet8) : *Analysez l’évolution des prix de l’immobilier avec Python* : Utilisation de Python pour traiter des données et réaliser des analyses corrélatives ou prédictives         | Jupyter Notebook, Python : Matplotlib, Numpy, Pandas, Scipy, Sklearn |
 | [**Projet 9**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet9) : *Améliorez les performances de l'entreprise* : Création d'un tableau de bord PowerBi afin de proposer des KPI de suivi de performances et donner des préconisations pour les améliorer| PowerBi |
 | [**Projet 10**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet10) : *Analysez une demande business et identifiez les segments du marché les plus pertinents pour votre client* : Analyse du marché du jeu vidéo sur internet ainsi que sur des bases de données afin de conseiller au mieux une entreprise pour confectionner un jeu vidéo.| Internet, Google Forms, PowerBi |
-| [**Projet 11**](https://github.com/MarineM-git/Openclassrooms-BusinessIntelligenceAnalyst/tree/main/Projet11) : *Créez votre portfolio de professionnel de la data* : Présentation des compétences acquises lors de la formation par le biais d'un portfolio Github.| Internet, Tableau Software, PowerBi, GitHub |
 
 
